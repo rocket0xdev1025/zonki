@@ -1,0 +1,8 @@
+{
+  "name": "zonki",
+  "private": true,
+  "description": "Local clone of https://zonki.fun/",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
